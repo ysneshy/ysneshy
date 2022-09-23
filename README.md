@@ -17,7 +17,7 @@
   <img align="center" alt="yxk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="yxk-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="yxk-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="yxk-pic" height="150" style="border-radius:50px;" src="https://photos.google.com/photo/AF1QipO_9VpfEt4n8_GbN-XPXlwd7e81AtMrNpX7rioX">
+  <img align="right" alt="yxk-pic" height="150" style="border-radius:50px;" ![Cat](https://raw.githubusercontent.com/paulmelnikow/zsh-startup-timer/3923c60fc66d4223ccf063d169ccf2ff167b1270/cat.png)
 </div>
   
   ##
