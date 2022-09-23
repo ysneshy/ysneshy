@@ -11,7 +11,6 @@
 </div>
 <div style="display: inline_block"><br>
    <img align="right" alt="yxk-pic" height="80" style="border-radius:30px;" src="https://github.com/ysneshy/ysneshy/blob/main/gh.gif">
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/ysneshy/ysneshy/blob/main/gh.gif?width=676&height=676">
   <img align="center" alt="yxk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="yxk-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="yxk-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
