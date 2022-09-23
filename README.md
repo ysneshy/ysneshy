@@ -17,7 +17,7 @@
   <img align="center" alt="yxk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="yxk-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="yxk-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="yxk-pic" height="100" style="border-radius:40px;" src="https://github.com/ysneshy/ysneshy/blob/main/301658553_1624630064598940_7193217128570879482_n.jpg">
+  <img align="right" alt="yxk-pic" height="80" style="border-radius:30px;" src="https://github.com/ysneshy/ysneshy/blob/main/301658553_1624630064598940_7193217128570879482_n.jpg">
   
   ##
  
