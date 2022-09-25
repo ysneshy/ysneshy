@@ -42,7 +42,7 @@
   <a href="https://www.facebook.com/ysneshy" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   
   
- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=solarized_dark"/>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=solarized_dark)
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysneshy&theme=solarized_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
