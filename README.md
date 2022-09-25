@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Desenvolvedor Front-end Enginner, Area de TI Brasil 🇧🇷</h3> 
 
-- 👨🏾‍🎓 Ola ! eu sou Carlos ou usuario @ysneshY
+- 👨🏾‍🎓 Ola ! eu sou Carlos ou usuario @YsneshY
 - 🧑‍💻 Meus interesses é programação e leitura de dados.
 - 🎖️ O que estou estudando NodeJS| JavaScript| CSS3| HTML5| PHP| Python| VUE| SQL| Power BI| 
 - 🧑🏾‍🔧 Minhas colaborações estarão sempre online ...
