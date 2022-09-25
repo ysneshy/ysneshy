@@ -31,7 +31,7 @@
   <img align="center" alt="yxk-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
 
   </div>
- 
+   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
           
   ##
  
