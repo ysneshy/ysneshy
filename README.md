@@ -9,7 +9,6 @@
 - 📫 Obrigado por sua visita deixe Email: carlosaugustodiniz@outlook.com ...
 
 <div align="center">
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
 
   <a href="https://github.com/ysneshy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
@@ -43,6 +42,8 @@
   <a href="https://www.facebook.com/ysneshy" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/ysneshy/ysneshy/blob/main/github-contribution-grid-snake.svg)
+  ![Status animation](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+
  
 </div>
 
