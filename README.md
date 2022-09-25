@@ -43,6 +43,7 @@
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysneshy&theme=solarized_dark)
 ![Snake animation](https://github.com/ysneshy/ysneshy/blob/main/github-contribution-grid-snake.svg)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
 
 
  
