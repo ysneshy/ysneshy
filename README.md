@@ -1,5 +1,9 @@
+<h1 align="center">Ola meu nome é <a href="www/121.01.01" target="_blank">Carlos</a> 
+<img src="https://github.com/ysneshy/ysneshy/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer Enginner Developer Front-end, Area de TI Brasil 🇧🇷</h3> 
+
 - 👨🏾‍🎓 Ola ! eu sou Carlos ou usuario @ysneshy
-- 👨🏽‍🏫 Meus interesses é programação e leitura de dados.
+- 🧑🏽‍💻 Meus interesses é programação e leitura de dados.
 - 🎖️ O que estou estudando NodeJS| JavaScript| CSS3| HTML5| PHP| Python| VUE| SQL| Power BI| 
 - 🧑🏾‍🔧 Minhas colaborações estarão sempre online ...
 - 📫 Obrigado por sua visita deixe Email: carlosaugustodiniz@outlook.com ...
