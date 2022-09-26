@@ -4,7 +4,7 @@
 
 - 👨🏾‍🎓 Ola ! eu sou Carlos ou usuario @YsneshY
 - 🧑‍💻 Meus interesses é programação e leitura de dados.
-- 🎖️ O que estou estudando: |NodeJS| JavaScript| CSS3| HTML5| PHP| Python| VUE| SQL| Power BI| Linux| ShellScript| Jupter |
+- 🎖️ O que estou estudando: |NodeJS| JavaScript| CSS3| HTML5| PHP| Python| VUE| SQL| Power BI| Linux| ShellScript| Jupyter |
 - 🧑🏾‍🔧 Minhas colaborações estarão sempre online ...
 - 📫 Obrigado por sua visita deixe Email: carlosaugustodiniz@outlook.com ...
 
