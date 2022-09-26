@@ -48,10 +48,10 @@
   ##
 
 <img height="130em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=solarized_dark"/>
-<img height="13em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark"/>
-<img height="13em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark"/>
-<img height="13em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysneshy&theme=solarized_dark"/>
-<img height="13em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&theme=solarized_dark"/>
+<img height="130em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark"/>
+<img height="130em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark"/>
+<img height="130em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysneshy&theme=solarized_dark"/>
+<img height="130em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&theme=solarized_dark"/>
 
 
 
