@@ -1,9 +1,9 @@
 <h1 align="center">🧑‍💻 Ola meu nome é <a href="https://github.com/ysneshy" target="_blank">Carlos</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Desenvolvedor Front-end Enginner | Linux expert Computer Engineer 🇧🇷 </h3>
- 
+
 ![autidoor](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AA216&width=435&lines=%3C+Sejam+Bem+vindo+ao+meu+Github+%2F+%3E;Aqui+todos+somos+um+e+um+somos+todos+)
--  🧑‍💻 #0969DA**Meus interesses é programação e leitura de dados e fazer amigos juntos em contribuição**.
+-  🧑‍💻 **Meus interesses é programação e leitura de dados e fazer amigos juntos em contribuição**.
 - 🎖️ **O que estou estudando: |NodeJS| JavaScript| CSS3| HTML5| PHP| Python| VUE| SQL| Power BI| Linux| ShellScript| Jupyter |**
 
 <div align="center">
@@ -49,7 +49,7 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&theme=solarized_dark"/>
 
 ![Snake animation](https://github.com/ysneshy/ysneshy/blob/main/github-contribution-grid-snake.svg)
- ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 
 </div>
