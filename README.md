@@ -2,8 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Desenvolvedor Front-end Enginner | Linux expert Computer Engineer 🇧🇷 </h3>
 
-<img height="30em" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9510F7&center=true&width=435&lines=%3C+Sejam+Bem+vindo+ao+meu+Github+%2F+%3E;Aqui+todos+somos+um+e+um+somos+todos+">
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9510F7&center=true&vCenter=true&width=435&height=90&lines=%3C+Sejam+Bem+vindo+ao+meu+Github+%2F+%3E;Aqui+todos+somos+um+e+um+somos+todos+)](https://git.io/typing-svg)
 - 🧑‍💻 Meus interesses é programação e leitura de dados e fazer amigos juntos em contribuição.
 - 🎖️ O que estou estudando: |NodeJS| JavaScript| CSS3| HTML5| PHP| Python| VUE| SQL| Power BI| Linux| ShellScript| Jupyter |
 - 📫 Obrigado por sua visita deixe Email: carlosaugustodiniz@outlook.com ...
