@@ -2,8 +2,11 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Desenvolvedor Front-end Enginner | Linux expert Computer Engineer 🇧🇷 </h3>
 
+ <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="70" height="70" /></a>
+
 ![autidoor](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AA216&width=435&lines=%3C+Sejam+Bem+vindo+ao+meu+Github+%2F+%3E;Aqui+todos+somos+um+e+um+somos+todos+)
--  🧑‍💻 **Meus interesses é programação e leitura de dados e fazer amigos juntos em contribuição**.
+  
+- 🧑‍💻 **Meus interesses é programação e leitura de dados e fazer amigos juntos em contribuição**.
 - 🎖️ **Estou estudando: |NodeJS| JavaScript| CSS3| HTML5| PHP| Python| VUE| SQL| Power BI| Linux| ShellScript| Jupyter |**
 
 <div align="center">
@@ -51,7 +54,6 @@
 
 ![Snake animation](https://github.com/ysneshy/ysneshy/blob/main/github-contribution-grid-snake.svg)
 
-
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
@@ -59,4 +61,16 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 </details> 
+
+<details>
+  <summary><b>✨&nbsp;&nbsp;Manifesto</b></summary>
+  <br/>
+  
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+</details> 
 </div>
+
+
+</div>
+
