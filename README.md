@@ -52,15 +52,4 @@
 ![Snake animation](https://github.com/ysneshy/ysneshy/blob/main/github-contribution-grid-snake.svg)
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-
-```text
-Bash   4 hrs 13 mins   █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
-
-
 </div>
