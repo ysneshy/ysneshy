@@ -2,8 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Desenvolvedor Front-end Enginner | Linux expert Computer Engineer 🇧🇷 </h3>
 
- <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="70" height="70" /></a>
-
+<img align="right" src="https://github.com/ysneshy/ysneshy/blob/main/banner.gif" width="70" height="70" /></a>
 ![autidoor](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AA216&width=435&lines=%3C+Sejam+Bem+vindo+ao+meu+Github+%2F+%3E;Aqui+todos+somos+um+e+um+somos+todos+)
   
 - 🧑‍💻 **Meus interesses é programação e leitura de dados e fazer amigos juntos em contribuição**.
@@ -44,7 +43,7 @@
   <a href="https://www.linkedin.com/in/ysneshy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/ysneshy" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  
- <!-- ![GitHub Org's stars](https://img.shields.io/github/stars/ysneshy?style=social) -->
+ <!-- ![GitHub Org's stars](https://img.shields.io/github/stars/ysneshy?style=social)  <a href="#"> -->
   #
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=solarized_dark"/>
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysneshy&theme=solarized_dark"/>
