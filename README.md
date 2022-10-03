@@ -4,7 +4,7 @@
 
 <img src="https://github.com/ysneshy/ysneshy/blob/main/.github/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador YsneshyCode">
 
-![autidoor](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AA216&width=435&lines=%3C+Sejam+Bem+vindo+ao+meu+Github+%2F+%3E;Aqui+todos+somos+um+e+um+somos+todos+)
+![autidoor](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=993399&width=435&lines=%3C+Sejam+Bem+vindo+ao+meu+Github+%2F+%3E;Aqui+todos+somos+um+e+um+somos+todos+)
 
 - 🧑‍💻 **Meus interesses é programação e leitura de dados e fazer amigos juntos em contribuição**.
 - 🎖️ **Estou estudando: |NodeJS| JavaScript| CSS3| HTML5| PHP| Python| VUE| SQL| Power BI| Linux| ShellScript| Jupyter |**
