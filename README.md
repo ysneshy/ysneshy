@@ -41,6 +41,7 @@
   <a href = "mailto:ysneshy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ysneshy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/ysneshy" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+   <a href="https://github.com/ysneshy" target="_blank"> <img src="https://img.shields.io/static/v1?label=Overview&message=Ysneshy&color=993399&style=for-the-badge&logo=GitHub">
  
  <!-- ![GitHub Org's stars](https://img.shields.io/github/stars/ysneshy?style=social)  <a href="#"> -->
   #
@@ -70,7 +71,6 @@
 </details> 
 </div> 
   
-  <img align='right' src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
   
 </div>
 
