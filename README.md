@@ -2,20 +2,19 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Desenvolvedor Front-end Enginner | Linux expert Computer Engineer 🇧🇷 </h3>
 
-<!-- <img align="right" src="https://github.com/ysneshy/ysneshy/blob/main/banner.gif" width="70" height="70" /></a> -->
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/ysneshy/ysneshy/blob/main/.github/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador YsneshyCode">
 
 ![autidoor](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AA216&width=435&lines=%3C+Sejam+Bem+vindo+ao+meu+Github+%2F+%3E;Aqui+todos+somos+um+e+um+somos+todos+)
 
-  
 - 🧑‍💻 **Meus interesses é programação e leitura de dados e fazer amigos juntos em contribuição**.
 - 🎖️ **Estou estudando: |NodeJS| JavaScript| CSS3| HTML5| PHP| Python| VUE| SQL| Power BI| Linux| ShellScript| Jupyter |**
 
 <div align="center">
   <a href="https://github.com/ysneshy">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysneshy&layout=compact&langs_count=7&theme=merko"/>
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysneshy&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
  <img align="center" alt="yxk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
