@@ -43,7 +43,12 @@
   <a href="https://www.facebook.com/ysneshy" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
    <a href="https://github.com/ysneshy" target="_blank"> <img src="https://img.shields.io/static/v1?label=Overview&message=Ysneshy&color=993399&style=for-the-badge&logo=GitHub">
      
- [![GitHub SEU NOME]( https://img.shields.io/github/followers/ysneshy?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+ ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+ ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+ ![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
+ ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+ ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+ [![GitHub ysneshy]( https://img.shields.io/github/followers/ysneshy?label=follow&style=social)](https://github.com/ysneshy)
  <!-- ![GitHub Org's stars](https://img.shields.io/github/stars/ysneshy?style=social)  <a href="#"> -->
   #
   
