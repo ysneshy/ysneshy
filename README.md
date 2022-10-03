@@ -64,8 +64,9 @@
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
-  
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+ **Minha area de trabalho Linux conky-colors**
+  <br/>
+<img height="180" src="https://github.com/ysneshy/ysneshy/blob/main/Captura%20de%20tela%20de%202022-10-03%2014-31-44.png"/>
 
 </details> 
 
