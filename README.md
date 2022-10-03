@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Desenvolvedor Front-end Enginner | Linux expert Computer Engineer 🇧🇷 </h3>
 
-<img src="https://github.com/ysneshy/ysneshy/blob/main/.github/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador YsneshyCode">
+<img src="https://github.com/ysneshy/ysneshy/blob/main/.github/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador YsneshyCode">
 
 ![autidoor](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AA216&width=435&lines=%3C+Sejam+Bem+vindo+ao+meu+Github+%2F+%3E;Aqui+todos+somos+um+e+um+somos+todos+)
 
