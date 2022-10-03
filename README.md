@@ -1,4 +1,4 @@
-<h1 align="center">🧑‍💻 Ola meu nome é <a href="https://github.com/ysneshy" target="_blank">Carlos</a>
+<h1 align="center">🧑‍💻 Hello my name is  <a href="https://github.com/ysneshy" target="_blank">Carlos or ysneshy</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Desenvolvedor Front-end Enginner | Linux expert Computer Engineer 🇧🇷 </h3>
 
@@ -13,8 +13,8 @@
   <a href="https://github.com/ysneshy">
 
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysneshy&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysneshy&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
  <img align="center" alt="yxk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
