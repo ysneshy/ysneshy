@@ -7,7 +7,7 @@
 ![autidoor](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=993399&width=435&lines=%3C+Sejam+Bem+vindo+ao+meu+Github+%2F+%3E;Aqui+todos+somos+um+e+um+somos+todos+)
 
 - 🧑‍💻 **Meus interesses é programação e leitura de dados e fazer amigos juntos em contribuição**.
-- 🎖️ **Estou estudando: |NodeJS| JavaScript| CSS3| HTML5| PHP| Python| VUE| SQL| Power BI| Linux| ShellScript| Jupyter |**
+- 🚀 **Estou estudando: |NodeJS| JavaScript| CSS3| HTML5| PHP| Python| VUE| SQL| Power BI| Linux| ShellScript| Jupyter |**
 
 <div align="center">
   <a href="https://github.com/ysneshy">
@@ -32,6 +32,17 @@
    <img align="center" alt="yxk-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="yxk-gentoo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain.svg" />
   <img align="center" alt="yxk-git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> 
+  
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
   </div>
   
   #  
@@ -45,6 +56,7 @@
  
  <!-- ![GitHub Org's stars](https://img.shields.io/github/stars/ysneshy?style=social)  <a href="#"> -->
   #
+  
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=solarized_dark"/>
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysneshy&theme=solarized_dark"/>
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysneshy&theme=solarized_dark"/>
