@@ -54,7 +54,7 @@
   ![Snake animation](https://github.com/ysneshy/ysneshy/blob/main/github-contribution-grid-snake.svg)
   </br>
   [![GitHub ysneshy]( https://img.shields.io/github/followers/ysneshy?label=follow&style=social)](https://github.com/ysneshy/)
-  ![](https://komarev.com/ghpvc/?username=ysneshy&color=blueviolet)(https://github.com/ysneshy/)
+  [![acesso](https://komarev.com/ghpvc/?username=ysneshy&color=blueviolet)](https://github.com/ysneshy/)
  <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
