@@ -1,7 +1,6 @@
-<h1 align="center">🧑‍💻 Ola meu nome é <a href="https://github.com/ysneshy" target="_blank">Carlos</a>
- Hi there, I'm <a href="https://github.com/ysneshy/" target="_blank">Carlos or ysneshy</a> 
+<h1 align="center">🧑‍💻 Hello my name is <a href="https://github.com/ysneshy" target="_blank">Carlos or ysneshy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer Enginner, IT news writer from Brasil 🇧🇷</h3>
+<h3 align="center">I'm a computer engineer, IT news writer from Brasil 🇧🇷</h3>
 
 
 - 🧑‍💻 **Ola estou aqui para aprender, meus interesses é programação e leitura de dados.**
