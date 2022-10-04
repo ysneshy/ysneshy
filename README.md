@@ -1,9 +1,11 @@
-<h1 align="center">👨🏽‍🏫 Hi there, I'm <a href="https://github.com/ysneshy/" target="_blank">Carlos or ysneshy</a> 
+<h1 align="center">🧑‍💻 Ola meu nome é <a href="https://github.com/ysneshy" target="_blank">Carlos</a>
+ Hi there, I'm <a href="https://github.com/ysneshy/" target="_blank">Carlos or ysneshy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer Enginner, IT news writer from Russia 🇷🇺</h3>
 
 
-- 👨🏽‍🏫 **Meus interesses é programação e leitura de dados.**
+- 🧑‍💻 Ola meu nome é <a href="https://github.com/ysneshy" target="_blank">Carlos</a>
+**Meus interesses é programação e leitura de dados.**
 - 🎖️ **O que estou estudando NodeJS| JavaScript| CSS3| HTML5| PHP| Python| VUE| SQL| Power BI|** 
 
 <div align="center">
