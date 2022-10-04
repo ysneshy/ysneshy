@@ -4,9 +4,7 @@
 <h3 align="center">I'm a computer engineer, IT news writer from Brasil 🇧🇷</h3>
 
 <a href="https://github.com/ysneshy/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F20F7&center=true&width=435&lines=%E2%8E%85+Bem+vindo+ao+meu+Github+%E2%8E%85;%E2%8E%97+Aqui+todos+somos+um+%E2%8E%98" alt="Typing SVG" align="right" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Fique+a+vontade+de+um+Follow;contato%3A+%2B55+91984851072" alt="Typing SVG" align="right" /></a>
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=%E2%86%82+Fique+a+vontade+de+um+Follow+%E2%86%82;%E2%B5%9E+contato%3A+%2B55+91984851072+%E2%A8%B3" alt="Typing SVG" align="left" /></a>
 
 - 🧑‍💻 **Ola estou aqui para aprender, meus interesses é programação e leitura de dados.**
 - 🎖️ **O que estou estudando: NodeJS| JavaScript| CSS3| HTML5| PHP| Python| VUE| SQL| Power BI| Laravel| Godot|** 
