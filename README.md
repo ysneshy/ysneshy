@@ -1,5 +1,6 @@
 <h1 align="center">🧑‍💻 Hello my name is <a href="https://github.com/ysneshy" target="_blank">Carlos or ysneshy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/ysneshy/ysneshy/blob/main/.github/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador ysneshy">
 <h3 align="center">I'm a computer engineer, IT news writer from Brasil 🇧🇷</h3>
 
 
