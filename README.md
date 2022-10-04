@@ -4,8 +4,7 @@
 <h3 align="center">Computer Enginner, IT news writer from Brasil 🇧🇷</h3>
 
 
-- 🧑‍💻 Ola meu nome é <a href="https://github.com/ysneshy" target="_blank">Carlos</a>
-**Meus interesses é programação e leitura de dados.**
+- 🧑‍💻 **Ola estou aqui para aprender, meus interesses é programação e leitura de dados.**
 - 🎖️ **O que estou estudando NodeJS| JavaScript| CSS3| HTML5| PHP| Python| VUE| SQL| Power BI|** 
 
 <div align="center">
