@@ -56,9 +56,15 @@
   [![GitHub ysneshy]( https://img.shields.io/github/followers/ysneshy?label=follow&style=social)](https://github.com/ysneshy/)
   [![acesso](https://komarev.com/ghpvc/?username=ysneshy&color=blueviolet)](https://github.com/ysneshy/)
   [![Linkedin: ysneshy](https://img.shields.io/badge/-ysneshy-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ysneshy/)](https://www.linkedin.com/in/ysneshy/)
-[![Gmail Badge](https://img.shields.io/badge/-ysneshy@gmail.com-blueviolet?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ysneshy@gmail.com)](mailto:ysneshy@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ysneshy@gmail.com-blueviolet?style=flat-square&logo=Gmail&logoColor=red&link=mailto:ysneshy@gmail.com)](mailto:ysneshy@gmail.com)
  <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
+   💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  </details>
+  </a> 
+  <details>
+  <summary><b>✨&nbsp;&nbsp;Manifesto</b></summary>
   <br/>
    💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
   </details>
