@@ -4,11 +4,12 @@
 
 <div align="center">
   <a href="https://github.com/ysneshy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=synthwave"/>
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="700em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div style="display: inline_block"><br>
- <img align="right" alt="yxk-pic" height="60" style="border-radius:20px;" src="https://github.com/ysneshy/ysneshy/blob/main/301658553_1624630064598940_7193217128570879482_n.jpg">
+ 
  <img align="center" alt="yxk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="yxk-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  <img align="center" alt="yxk-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
