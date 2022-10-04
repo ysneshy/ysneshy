@@ -49,5 +49,12 @@
   
  
   ![Snake animation](https://github.com/ysneshy/ysneshy/blob/main/github-contribution-grid-snake.svg)
+ <details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
+   💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  </details>
+ 
+ 
  
 </div>
