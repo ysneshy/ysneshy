@@ -32,9 +32,8 @@
   <img align="center" alt="yxk-jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
    <img align="center" alt="yxk-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="yxk-gentoo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain.svg" />
-
-</br>
- <!-- <img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white"> -->
+  
+</p>
  
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=2077"/>
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysneshy&theme=2077"/>
