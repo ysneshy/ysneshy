@@ -50,9 +50,9 @@
 <img height="161em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysneshy&theme=2077"/>
 <img height="161em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&theme=2077"/>
   
-   [![GitHub ysneshy]( https://img.shields.io/github/followers/ysneshy?label=follow&style=social)](https://github.com/ysneshy/)
-  [![acesso](https://komarev.com/ghpvc/?username=ysneshy&color=blueviolet)](https://github.com/ysneshy/)
-  [![Linkedin: ysneshy](https://img.shields.io/badge/-ysneshy-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ysneshy/)](https://www.linkedin.com/in/ysneshy/)
+[![GitHub ysneshy]( https://img.shields.io/github/followers/ysneshy?label=follow&style=social)](https://github.com/ysneshy/)
+[![acesso](https://komarev.com/ghpvc/?username=ysneshy&color=blueviolet)](https://github.com/ysneshy/)
+[![Linkedin: ysneshy](https://img.shields.io/badge/-ysneshy-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ysneshy/)](https://www.linkedin.com/in/ysneshy/)
 [![Gmail Badge](https://img.shields.io/badge/-ysneshy@gmail.com-blueviolet?style=flat-square&logo=Gmail&logoColor=red&link=mailto:ysneshy@gmail.com)](mailto:ysneshy@gmail.com)
 </br>
 <!--START_SECTION:waka-->
