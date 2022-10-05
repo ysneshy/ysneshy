@@ -50,13 +50,14 @@
 <img height="161em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysneshy&theme=solarized_dark"/>
 <img height="161em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&theme=solarized_dark"/>
   
- 
-  ![Snake animation](https://github.com/ysneshy/ysneshy/blob/main/github-contribution-grid-snake.svg)
-  </br>
-  [![GitHub ysneshy]( https://img.shields.io/github/followers/ysneshy?label=follow&style=social)](https://github.com/ysneshy/)
+   [![GitHub ysneshy]( https://img.shields.io/github/followers/ysneshy?label=follow&style=social)](https://github.com/ysneshy/)
   [![acesso](https://komarev.com/ghpvc/?username=ysneshy&color=blueviolet)](https://github.com/ysneshy/)
   [![Linkedin: ysneshy](https://img.shields.io/badge/-ysneshy-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ysneshy/)](https://www.linkedin.com/in/ysneshy/)
 [![Gmail Badge](https://img.shields.io/badge/-ysneshy@gmail.com-blueviolet?style=flat-square&logo=Gmail&logoColor=red&link=mailto:ysneshy@gmail.com)](mailto:ysneshy@gmail.com)
+</br>
+  ![Snake animation](https://github.com/ysneshy/ysneshy/blob/main/github-contribution-grid-snake.svg)
+  </br>
+
  <details>
   <summary><b>:rocket: &nbsp;Minhas Skills</b></summary>
 **Aplicações e Dados**
