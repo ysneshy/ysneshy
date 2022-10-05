@@ -55,6 +55,8 @@
   [![Linkedin: ysneshy](https://img.shields.io/badge/-ysneshy-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ysneshy/)](https://www.linkedin.com/in/ysneshy/)
 [![Gmail Badge](https://img.shields.io/badge/-ysneshy@gmail.com-blueviolet?style=flat-square&logo=Gmail&logoColor=red&link=mailto:ysneshy@gmail.com)](mailto:ysneshy@gmail.com)
 </br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   ![Snake animation](https://github.com/ysneshy/ysneshy/blob/main/github-contribution-grid-snake.svg)
   </br>
 
