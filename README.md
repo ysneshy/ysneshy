@@ -57,7 +57,42 @@
 </br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-797-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 304 Contributions in the Year 2022
+ > 
+> 📦 231.1 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 34 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               2 repos             ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.0% 
+C                        1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.5% 
+PHP                      1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.5% 
+HTML                     1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.5% 
+C#                       1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.5%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/ysneshy/ysneshy/main/charts/bar_graph.png) 
+
+
+ Last Updated on 05/10/2022 19:05:21 UTC
 <!--END_SECTION:waka-->
 
   ![Snake animation](https://github.com/ysneshy/ysneshy/blob/main/github-contribution-grid-snake.svg)
