@@ -55,7 +55,9 @@
 [![Linkedin: ysneshy](https://img.shields.io/badge/-ysneshy-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ysneshy/)](https://www.linkedin.com/in/ysneshy/)
 [![Gmail Badge](https://img.shields.io/badge/-ysneshy@gmail.com-blueviolet?style=flat-square&logo=Gmail&logoColor=red&link=mailto:ysneshy@gmail.com)](mailto:ysneshy@gmail.com)
 </br>
-
+<details>
+  <summary><b>:rocket: &nbsp;My Coding Time </b></summary>
+  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -94,6 +96,7 @@ C#                       1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on 05/10/2022 19:05:21 UTC
 <!--END_SECTION:waka-->
+  </details>
 
   ![Snake animation](https://github.com/ysneshy/ysneshy/blob/main/github-contribution-grid-snake.svg)
   </br>
