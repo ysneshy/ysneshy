@@ -22,5 +22,10 @@ jobs:
           SYMBOL_VERSION: 2
           SHOW_EDITORS: false
           SHOW_OS: false
+          SHOW_COMMIT: false
+          SHOW_DAYS_OF_WEEK: false
+          SHOW_PROJECTS: false
+          SHOW_EDITORS: false
+          SHOW_LANGUAGE_PER_REPO: false
        
           
