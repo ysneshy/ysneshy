@@ -57,32 +57,72 @@
   <summary><b>:rocket: &nbsp;My Coding Time </b></summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-797-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-917-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 304 Contributions in the Year 2022
+> 🏆 329 Contributions in the Year 2022
  > 
-> 📦 231.1 kB Used in GitHub's Storage 
+> 📦 231.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 38 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    40 commits     ████████░░░░░░░░░░░░░░░░░   33.61% 
+🌆 Daytime    67 commits     ██████████████░░░░░░░░░░░   56.3% 
+🌃 Evening    12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.08% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.52% 
+Tuesday      70 commits     ██████████████░░░░░░░░░░░   58.82% 
+Wednesday    23 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.33% 
+Thursday     16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
+Friday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.2% 
+Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Belem
+
+💬 Programming Languages: 
+Markdown                 2 mins              ████████████░░░░░░░░░░░░░   50.06% 
+Other                    2 mins              ████████████░░░░░░░░░░░░░   49.94%
+
+🔥 Editors: 
+VS Code                  5 mins              █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    5 mins              █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               2 repos             ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.0% 
-C                        1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.5% 
-PHP                      1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.5% 
-HTML                     1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.5% 
-C#                       1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.5%
+JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 
 ```
 
@@ -92,7 +132,7 @@ C#                       1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Chart not found](https://raw.githubusercontent.com/ysneshy/ysneshy/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/10/2022 19:05:21 UTC
+ Last Updated on 07/10/2022 01:59:38 UTC
 <!--END_SECTION:waka-->
 
   </details>
