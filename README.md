@@ -57,9 +57,9 @@
   <summary><b>:rocket: &nbsp;My Coding Time </b></summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-917-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-828-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -67,7 +67,7 @@
 
 > 🏆 329 Contributions in the Year 2022
  > 
-> 📦 231.8 kB Used in GitHub's Storage 
+> 📦 231.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,14 +104,17 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Belem
 
 💬 Programming Languages: 
-Markdown                 2 mins              ████████████░░░░░░░░░░░░░   50.06% 
-Other                    2 mins              ████████████░░░░░░░░░░░░░   49.94%
+Other                    33 mins             ██████████████░░░░░░░░░░░   55.67% 
+JSON                     20 mins             ████████░░░░░░░░░░░░░░░░░   33.18% 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.93% 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.92% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.0%
+VS Code                  1 hr                █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    5 mins              █████████████████████████   100.0%
+Linux                    1 hr                █████████████████████████   100.0%
 
 ```
 
@@ -132,7 +135,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ysneshy/ysneshy/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/10/2022 01:59:38 UTC
+ Last Updated on 08/10/2022 01:44:49 UTC
 <!--END_SECTION:waka-->
 
   </details>
