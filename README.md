@@ -25,7 +25,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
 ![Css3](https://img.shields.io/badge/-CSS3-099cec?style=flat&logoColor=fff&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
-![html5](https://img.shields.io/badge/-HTML5-FEAE32?style=flat&logoColor=fff&logo=html5)&nbsp;
+![html5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logoColor=fff&logo=html5)&nbsp;
+![html5](https://img.shields.io/badge/-Python-4F5D95?style=flat&logoColor=fff&logo=python)&nbsp;
 
 
 <table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=2077"/></td><td>
