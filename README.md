@@ -54,7 +54,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-ysneshy@gmail.com-%2311101c?style=flat-square&logo=Gmail&logoColor=red&link=mailto:ysneshy@gmail.com)](mailto:ysneshy@gmail.com)
 </br>
 <details>
-  <summary><b>:rocket: &nbsp;My Coding Time <-- **|"LAST_WILLIAM"|**</b></summary>
+  <summary><b>:rocket: &nbsp;My Coding Time</b></summary>
   
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr-blue)
