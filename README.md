@@ -1,10 +1,10 @@
 <h3 align="center">🧑‍💻 Hello my name is <a href="https://github.com/ysneshy" target="_blank">Carlos or ysneshy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h3>
-<table><tr><td><img src="https://github.com/ysneshy/ysneshy/blob/main/.github/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador ysneshy">
+<table><tr><td><img src="https://github.com/ysneshy/ysneshy/blob/main/.github/computer-illustration.png" min-width="100px" max-width="100px" width="100px" align="right" alt="Computador ysneshy">
 <h3 align="right">I'm a computer engineer Front end developer, I from Brasil 🇧🇷</h3>
 
 - <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/message.gif?raw=true" width="21" />&nbsp;&nbsp;**Estou aqui para aprender, meus interesses é programação e leitura de dados**
-- <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; **Upgrade: ```NodeJS| JavaScript| CSS3| HTML5| PHP| Python| Power BI| Laravel| Godot| Flutter| ```**</td></tr></table>
+- <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; **Estou trabalhando: ```NodeJS| JavaScript| CSS3| HTML5| PHP| Python| Power BI| Laravel| Godot| Flutter| ```**</td></tr></table>
 
 <div align="center">
   <a href="https://github.com/ysneshy">
