@@ -135,8 +135,8 @@ C#                       1 repo              ██░░░░░░░░░�
 
   </details>
 
-![Snake animation](https://github.com/Hugoszd/Hugoszd/blob/output/github-contribution-grid-snake.svg)  
-<!--  ![Snake animation](https://github.com/ysneshy/ysneshy/blob/main/github-contribution-grid-snake.svg) -->
+<!-- ![Snake animation](https://github.com/Hugoszd/Hugoszd/blob/output/github-contribution-grid-snake.svg)  -->
+ ![Snake animation](https://github.com/ysneshy/ysneshy/blob/output/github-contribution-grid-snake.svg)
   </br>
 
  <details>
