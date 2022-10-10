@@ -55,6 +55,7 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
+<table><tr><td>
 **🐱 My GitHub Data** 
 
 > 🏆 354 Contributions in the Year 2022
@@ -68,7 +69,7 @@
 > 🔑 0 Private Repositories  
  > 
 **I'm an Early 🐤** 
-<table><tr><td>
+
 ```text
 🌞 Morning    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.49% 
 🌆 Daytime    82 commits     █████████████████░░░░░░░░   68.91% 
@@ -76,7 +77,6 @@
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-  </td></tr></table>
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
@@ -127,7 +127,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 ![Chart not found](https://raw.githubusercontent.com/ysneshy/ysneshy/main/charts/bar_graph.png) 
 
-
+</td></tr></table>
  Last Updated on 10/10/2022 02:02:52 UTC
 <!--END_SECTION:waka-->
 
