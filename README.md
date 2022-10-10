@@ -3,9 +3,6 @@
 <table><tr><td><img src="https://github.com/ysneshy/ysneshy/blob/main/.github/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador ysneshy">
 <h3 align="right">I'm a computer engineer Front end developer, I from Brasil 🇧🇷</h3>
 
-<a href="https://github.com/ysneshy/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F20F7&center=true&width=435&lines=%E2%8E%85+Bem+vindo+ao+meu+Github+%E2%8E%85;%E2%8E%97+Aqui+todos+somos+um+%E2%8E%98" alt="Typing SVG" align="right" /></a>
-<a href="https://github.com/ysneshy/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F20F7&center=true&width=435&lines=%E2%86%82+Fique+a+vontade+%2BFollow+%E2%86%82;%E2%B5%9E+contato%3A+%2B55+91984851072+%E2%A8%B3" alt="Typing SVG"  align="right" /></a>
-
 - <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/message.gif?raw=true" width="21" />&nbsp;&nbsp;**Estou aqui para aprender, meus interesses é programação e leitura de dados**
 - <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; **Estou desenvolvendo: ```NodeJS| JavaScript| CSS3| HTML5| PHP| Python| Power BI| Laravel| Godot| Flutter| ```**</td></tr></table>
 
