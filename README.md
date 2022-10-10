@@ -4,7 +4,7 @@
 <h3 align="right">I'm a computer engineer Front end developer, I from Brasil 🇧🇷</h3>
 
 - <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/message.gif?raw=true" width="21" />&nbsp;&nbsp;**Estou aqui para aprender, meus interesses é programação e leitura de dados**
-- <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; **Estou desenvolvendo: ```NodeJS| JavaScript| CSS3| HTML5| PHP| Python| Power BI| Laravel| Godot| Flutter| ```**</td></tr></table>
+- <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; **Upgrade: ```NodeJS| JavaScript| CSS3| HTML5| PHP| Python| Power BI| Laravel| Godot| Flutter| ```**</td></tr></table>
 
 <div align="center">
   <a href="https://github.com/ysneshy">
