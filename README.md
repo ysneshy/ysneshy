@@ -49,13 +49,14 @@
   <summary><b>:rocket: &nbsp;My Coding Time</b></summary>
   
 <!--START_SECTION:waka-->
+<table><tr><td>
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-816-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
-<table><tr><td>
 **🐱 My GitHub Data** 
 
 > 🏆 354 Contributions in the Year 2022
@@ -127,8 +128,8 @@ C#                       1 repo              ██░░░░░░░░░�
 
 ![Chart not found](https://raw.githubusercontent.com/ysneshy/ysneshy/main/charts/bar_graph.png) 
 
-</td></tr></table>
  Last Updated on 10/10/2022 02:02:52 UTC
+ </td></tr></table>
 <!--END_SECTION:waka-->
 
   </details>
