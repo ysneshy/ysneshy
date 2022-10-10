@@ -37,12 +37,12 @@
   <a href = "mailto:ysneshy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23141321?style=for-the-badge&logo=gmail&logoColor=00FFC8" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ysneshy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23141321?style=for-the-badge&logo=linkedin&logoColor=00FFC8" target="_blank"></a> 
   <a href="https://www.facebook.com/ysneshy" target="_blank"><img src="https://img.shields.io/badge/Facebook-%23141321?style=for-the-badge&logo=facebook&logoColor=00FFC8" target="_blank"></a>
-<a href="https://github.com/ysneshy"> <img src="https://img.shields.io/static/v1?&label=Reload&message=ysneshy&color=%23141321&style=for-the-badge&logo=GitHub?logoColor=00FFC8">
+<a href="https://github.com/ysneshy"> <img src="https://img.shields.io/static/v1?&label=Reload&message=ysneshy&color=%23141321&style=for-the-badge&logo=GitHub&logoColor=00FFC8&labelColor=141321">
  </br>
 [![Linkedin: ysneshy](https://img.shields.io/badge/-ysneshy-%23141321?style=flat-square&logo=Linkedin&logoColor=00FFC8&link=https://www.linkedin.com/in/ysneshy/)](https://www.linkedin.com/in/ysneshy/)
 [![Gmail Badge](https://img.shields.io/badge/-ysneshy@gmail.com-%23141321?style=flat-square&logo=Gmail&logoColor=00FFC8&link=mailto:ysneshy@gmail.com)](mailto:ysneshy@gmail.com)
 [![GitHub ysneshy]( https://img.shields.io/github/followers/ysneshy?label=follow&style=social)](https://github.com/ysneshy/)
-[![acesso](https://komarev.com/ghpvc/?username=ysneshy&color=%23141321)](https://github.com/ysneshy/)
+[![acesso](https://komarev.com/ghpvc/?username=ysneshy&color=%23ff0000)](https://github.com/ysneshy/)
 
 </br>
 <details>
@@ -68,7 +68,7 @@
 > 🔑 0 Private Repositories  
  > 
 **I'm an Early 🐤** 
-
+<table><tr><td>
 ```text
 🌞 Morning    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.49% 
 🌆 Daytime    82 commits     █████████████████░░░░░░░░   68.91% 
@@ -76,6 +76,7 @@
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
+  </td></tr></table>
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
