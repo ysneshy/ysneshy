@@ -4,6 +4,7 @@
 
 - <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/wau.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm a computer engineer Front end developer, I from Brasil** 🇧🇷
 - <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/message.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm here to learn and my interests are programming and data reading**
+
 - <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; **Estou trabalhando: ```NodeJS| JavaScript| CSS3| HTML5| PHP| Python| Power BI| Laravel| Godot| Flutter| ```**</td></tr></table>
 
 <div align="center">
