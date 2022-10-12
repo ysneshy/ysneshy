@@ -1,8 +1,8 @@
 <h2 align="center">🧑‍💻 Hello my name is <a href="https://github.com/ysneshy" target="_blank">Carlos or ysneshy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
-<table><tr><td>&nbsp;&nbsp;&nbsp;&nbsp&nbsp<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/ZNec.gif" min-width="100px" max-width="100px" width="100px" align="right" alt="Computador ysneshy">
+<table><tr><td>&nbsp;&nbsp;&nbsp;&nbsp&nbsp<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/wau.gif" min-width="100px" max-width="100px" width="100px" align="right" alt="Computador ysneshy">
 
-- <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/wau.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm a computer engineer Front end developer, I from Brasil** 🇧🇷
+- <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/ZNec.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm a computer engineer Front end developer, I from Brasil** 🇧🇷
 - <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/message.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm here to learn and my interests are programming and data reading**
 
 - <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; **Estou trabalhando: ```NodeJS| JavaScript| CSS3| HTML5| PHP| Python| Power BI| Laravel| Godot| Flutter| ```**</td></tr></table>
