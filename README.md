@@ -135,6 +135,25 @@ C#                       1 repo              █░░░░░░░░░░�
   </details>
 
  ![Snake animation](https://github.com/ysneshy/ysneshy/blob/output/github-contribution-grid-snake.svg)
+ 
+ <table width="960px">
+<tr>
+<td valign="top" width="50%">
+
+<!--START_SECTION:waka-->
+
+```text
+🌞 Morning    52 commits     ██████████░░░░░░░░░░░░░░░   40.31% 
+🌆 Daytime    56 commits     ██████████░░░░░░░░░░░░░░░   43.41% 
+🌃 Evening    21 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+<!--END_SECTION:waka-->
+
+
+</td>
   </br>
 
  <details>
