@@ -42,6 +42,7 @@
 [![Linkedin: ysneshy](https://img.shields.io/badge/-ysneshy-%23141321?style=flat-square&logo=Linkedin&logoColor=00FFC8&link=https://www.linkedin.com/in/ysneshy/)](https://www.linkedin.com/in/ysneshy/)
 [![Gmail Badge](https://img.shields.io/badge/-ysneshy@gmail.com-%23141321?style=flat-square&logo=Gmail&logoColor=00FFC8&link=mailto:ysneshy@gmail.com)](mailto:ysneshy@gmail.com)
 [![acesso](https://komarev.com/ghpvc/?username=ysneshy&color=%23ff0000)](https://github.com/ysneshy/)
+[![wakatime](https://wakatime.com/badge/user/6aae6342-d099-49ca-a83b-c276c6bd7669.svg)](https://wakatime.com/@6aae6342-d099-49ca-a83b-c276c6bd7669)
 [![GitHub ysneshy]( https://img.shields.io/github/followers/ysneshy?label=follow&style=social)](https://github.com/ysneshy/)
 ![GitHub Org's stars](https://img.shields.io/github/stars/ysneshy?style=social)
 
