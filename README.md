@@ -2,12 +2,12 @@
  </h2>
 <table width="1260px">
 <tr>
-<td valign="top" width="30%"><pre>&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" min-width="80px" max-width="80px" width="80px" align="right" alt="Computador ysneshy">
+<td valign="top" width="30%">&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" min-width="80px" max-width="80px" width="80px" align="right" alt="Computador ysneshy">
 
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0243.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm a computer engineer Front end developer, I from Brasil** 🇧🇷
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0451.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm here to learn and my interests are programming and data reading**
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**I am working: ```NodeJS| JavaScript| CSS3| HTML5| PHP| Python| Power BI| Laravel| Godot| Flutter| ```**
-- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**Meu Portifolio**: https://portfolio-carlos-filho.vercel.app</td></tr></table></pre>
+- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**Meu Portifolio**: https://portfolio-carlos-filho.vercel.app</td></tr></table>
 <div align="center">
   <a href="https://github.com/ysneshy">
   
@@ -140,14 +140,14 @@ C#                       1 repo              █░░░░░░░░░░�
  
   </br>
 <pre>
-┌──┤ WHOAMI ├─────────▰▰▰ ▰▰▰────────────────────────────────│
+┌──┤ WHOAMI ├─────────▰▰▰ 
 │
-├─▣ Security Researcher
-├─▣ Content Creator
-├─▣ <a href="">ysneshy</a>
-├─▣ <a href="">em construç</a>
+├─▣ Enginner Computer
+├─▣ Developer
+├─▣ <a href="portfolio-carlos-filho.vercel.app">**Portfolio**</a>
+├─▣ <a href="">em construçao</a>
 │
-└───────────────────────────────▰▰▰──┤ ├─────────▰▰▰─────────│
+└───────────────────────────────▰▰▰──┤ 
 </pre>
  <details>
   <summary><b>:rocket: &nbsp;Minhas Skills</b></summary>
