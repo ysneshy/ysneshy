@@ -1,6 +1,6 @@
 <h2 align="center">🧑‍💻 Hello my name is <a href="https://github.com/ysneshy" target="_blank">Carlos or ysneshy</a> 
  </h2>
-<table width="1260px">
+<table width="1060px">
 <tr>
 <td valign="top" width="30%">&nbsp;&nbsp;&nbsp;&nbsp&nbsp<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" min-width="80px" max-width="80px" width="80px" align="right" alt="Computador ysneshy">
 
