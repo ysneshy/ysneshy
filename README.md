@@ -7,7 +7,7 @@
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0243.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm a computer engineer Front end developer, I from Brasil** 🇧🇷
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0451.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm here to learn and my interests are programming and data reading**
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**I am working: ```NodeJS| JavaScript| CSS3| HTML5| PHP| Python| Power BI| Laravel| Godot| Flutter| ```**
-- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**Portifolio: ![Carlos](https://img.shields.io/badge/-Carlos_Filho-1976D1?style=flat&logoColor=fff&logo=vercel)&nbsp;"https://portfolio-carlos-filho.vercel.app/" target="_blank"> Carlos Filho**</td></tr></table>
+- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**Meu Portifolio**: [![Carlos](https://img.shields.io/badge/-Carlos_Filho-1976D1?style=flat&logoColor=fff&logo=vercel)](https://portfolio-carlos-filho.vercel.app/)</td></tr></table>
 
 <div align="center">
   <a href="https://github.com/ysneshy">
