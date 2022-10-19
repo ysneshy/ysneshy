@@ -52,6 +52,8 @@
 
 </br>
 
+![Snake animation](https://github.com/ysneshy/ysneshy/blob/output/github-contribution-grid-snake.svg)
+
 <details>
   <summary><b>:rocket: &nbsp;My Coding Time</b></summary>
   
@@ -138,9 +140,5 @@ C#                       1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
   </details>
-
- ![Snake animation](https://github.com/ysneshy/ysneshy/blob/output/github-contribution-grid-snake.svg)
- 
-</br>
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=08565a&height=100&section=footer"/>
 </div>
