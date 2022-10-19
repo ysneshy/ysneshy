@@ -49,14 +49,7 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/ysneshy?style=social)
 
 </br>
-### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-
-
-<!--END_SECTION:activity-->
-
-</br>
 <details>
   <summary><b>:rocket: &nbsp;My Coding Time</b></summary>
   
@@ -147,15 +140,16 @@ C#                       1 repo              █░░░░░░░░░░�
  ![Snake animation](https://github.com/ysneshy/ysneshy/blob/output/github-contribution-grid-snake.svg)
  
   </br>
-<pre>
-┌──┤ WHOAMI ├─────────▰▰▰ 
-│
-├─▣ Enginner Computer                                                  
-├─▣ Developer Front-End
-├─▣ <a href="portfolio-carlos-filho.vercel.app">**Portfolio**</a>
-├─▣ <a href="">em construçao</a>
-│
-└───────────────────────────────▰▰▰──┤ 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+
+
+
+<!--END_SECTION:activity-->
+
+</br>
 </pre>
  <details>
   <summary><b>:rocket: &nbsp;Minhas Skills</b></summary>
