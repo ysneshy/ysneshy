@@ -49,6 +49,11 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/ysneshy?style=social)
 
 </br>
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 <details>
   <summary><b>:rocket: &nbsp;My Coding Time</b></summary>
   
