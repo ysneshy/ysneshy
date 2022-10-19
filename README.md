@@ -56,6 +56,7 @@
 
 <!--END_SECTION:activity-->
 
+</br>
 <details>
   <summary><b>:rocket: &nbsp;My Coding Time</b></summary>
   
