@@ -142,8 +142,8 @@ C#                       1 repo              █░░░░░░░░░░�
 <pre>
 ┌──┤ WHOAMI ├─────────▰▰▰ 
 │
-├─▣ Enginner Computer
-├─▣ Developer
+├─▣ Enginner Computer                                                  
+├─▣ Developer Front-End
 ├─▣ <a href="portfolio-carlos-filho.vercel.app">**Portfolio**</a>
 ├─▣ <a href="">em construçao</a>
 │
