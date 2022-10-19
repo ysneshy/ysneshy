@@ -50,8 +50,6 @@
 [![GitHub ysneshy]( https://img.shields.io/github/followers/ysneshy?label=follow&style=social)](https://github.com/ysneshy/)
 ![GitHub Org's stars](https://img.shields.io/github/stars/ysneshy?style=social)
 
-</br>
-
 ![Snake animation](https://github.com/ysneshy/ysneshy/blob/output/github-contribution-grid-snake.svg)
 
 <details>
