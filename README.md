@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 <h2 align="center">🧑‍💻 Hello my name is <a href="https://github.com/ysneshy" target="_blank">Carlos or ysneshy</a> 
  </h2>
 <table width="1260px">
@@ -139,16 +140,6 @@ C#                       1 repo              █░░░░░░░░░░�
 
  ![Snake animation](https://github.com/ysneshy/ysneshy/blob/output/github-contribution-grid-snake.svg)
  
-  </br>
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-
-
-
-<!--END_SECTION:activity-->
-
 </br>
  
 </div>
