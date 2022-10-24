@@ -20,7 +20,7 @@
 ![Quasar](https://img.shields.io/badge/-Quasar-1976D1?style=flat&logoColor=fff&logo=quasar)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
+<!-- ![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp; -->
 ![Css3](https://img.shields.io/badge/-CSS3-099cec?style=flat&logoColor=fff&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![html5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logoColor=fff&logo=html5)&nbsp;
