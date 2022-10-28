@@ -52,14 +52,6 @@
 
 ![Snake animation](https://github.com/ysneshy/ysneshy/blob/output/github-contribution-grid-snake.svg)
 
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
-
-
-
-<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
-
-<!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}-->
-
 <details>
   <summary><b>:rocket: &nbsp;My Coding Time</b></summary>
   
